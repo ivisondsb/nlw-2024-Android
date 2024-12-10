@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "br.com.ivisondsb.nearby"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.com.ivisondsb.nearby"
